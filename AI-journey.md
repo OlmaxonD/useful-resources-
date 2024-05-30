@@ -19,6 +19,7 @@ _This roadmap intends be easy to be followed_
 ### Step2
 1. Learn how to use ML libraries like pyTorch, TensorFlow, sckit-learn 
 
+---
 ### complementary resources 
 - [glossary][google glossary] by Google
 - course by [Microsoft]
