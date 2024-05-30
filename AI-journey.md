@@ -12,7 +12,7 @@ _This roadmap intends be easy to be followed_
 - Use Google Colabs as an environment
 
 ### Step1
-1. [Take Google's intro to ML](https://developers.google.com/machine-learning/intro-to-ml) course
+1. [x] [Take Google's intro to ML](https://developers.google.com/machine-learning/intro-to-ml) course
 1. [Take Google's ML crash course](https://developers.google.com/machine-learning/crash-course). **Make sure to complete all the prework and Prerequisites***
 1. Continue learning in order specified in [Google Foundational Courses] webpage
 
@@ -20,6 +20,7 @@ _This roadmap intends be easy to be followed_
 1. Learn how to use ML libraries like pyTorch, TensorFlow, sckit-learn 
 
 ### complementary resources 
+- [glossary][google glossary] by Google
 - course by [Microsoft]
 - [freeCodeCampl text course]
 
@@ -28,3 +29,4 @@ _This roadmap intends be easy to be followed_
 [freeCodeCampl text course]:https://www.freecodecamp.org/news/machine-learning-handbook/#chapter-2-most-popular-machine-learning-algorithms
 [Google Foundational Courses]:https://developers.google.com/machine-learning/foundational-courses
 [geeksForGeeks course]:https://www.geeksforgeeks.org/support-vector-machine-algorithm/?ref=lbp
+[google glossary]:https://developers.google.com/machine-learning/glossary
