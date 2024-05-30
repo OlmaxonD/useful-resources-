@@ -13,7 +13,8 @@ _This roadmap intends be easy to be followed_
 
 ### Step1
 1. [x] [Take Google's intro to ML](https://developers.google.com/machine-learning/intro-to-ml) course
-1. [Take Google's ML crash course](https://developers.google.com/machine-learning/crash-course). **Make sure to complete all the prework and Prerequisites***
+1. Complete all the [prework and Prerequisites](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) 
+1. [Take Google's ML crash course](https://developers.google.com/machine-learning/crash-course).
 1. Continue learning in order specified in [Google Foundational Courses] webpage
 
 ### Step2
