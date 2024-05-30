@@ -2,8 +2,8 @@
 
 ## The purpose is to understand ML Fundamentals not just to learn how to use certain ML libraries
 
-_there are many roadmaps on the internet and on github as well_
-_but they are either too advanced in the case of courses or filled with rabbit hole of links in the case of roadmaps_
+_There are many roadmaps on the internet, on github as well._
+_But they are either too advanced in the case of courses or filled with rabbit hole of links in the case of roadmaps._
 _This roadmap intends be easy to be followed_
 
 ### Overal Plan:
